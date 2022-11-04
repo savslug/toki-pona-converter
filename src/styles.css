@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.toki {
+  font-family: 'toki-ponaregular';
+}
+
+@font-face {
+  font-family: 'toki-ponaregular';
+  src: url('https://cdn.jsdelivr.net/gh/toki-pona/ilo-pi-sitelen-pona@da6a3483e3c5a7064f8ba709b67a422f97ee0cef/client/styles/fonts/tp/toki-pona.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
